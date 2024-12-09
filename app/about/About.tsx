@@ -6,13 +6,13 @@ const About = () => {
     <div className="text-black dark:text-white">
       <br />
       <h1 className={`${styles.title} 800px:!text-[45px]`}>
-        What is <span className="text-gradient">1SHOT - LMS?</span>
+        What is <span className="text-gradient">1SHOT LMS?</span>
       </h1>
       
       <br />
       <div className="w-[95%] 800px:w-[85%] m-auto">
         <p className="text-[18px] font-Poppins">
-        Are you ready to transform your learning experience? Look no further than 1SHOT  LMS, the premier online learning platform designed to address the challenges of today's eLearning landscape for both educators and learners.
+        Are you ready to transform your learning experience? Look no further than 1SHOT  LMS, the premier online learning platform designed to address the challenges of todays eLearning landscape for both educators and learners.
           <br />
           <br />
           As the devs 1SHOT, we know firsthand the challenges
