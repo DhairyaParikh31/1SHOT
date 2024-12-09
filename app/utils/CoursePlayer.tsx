@@ -14,7 +14,7 @@ const CoursePlayer: FC<Props> = ({ videoUrl }) => {
 
   useEffect(() => {
     axios
-      .post("https://oneshot-backend-wwhs.onrender.com/api/v1/getVdoCipherOTP", {
+      .post("https://oneshot-backend-jsk6.onrender.com/api/v1/getVdoCipherOTP", {
         videoId: videoUrl,
       })
       .then((res) => {
